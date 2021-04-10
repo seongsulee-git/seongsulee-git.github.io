@@ -1,6 +1,18 @@
 [
   
     {
+      "title"    : "Jacoco Setting in Spring Boot",
+      "title-lower"    : "jacoco setting in spring boot",
+      "sub-titile" : "",
+      "sub-titile-lower" : "",
+      "categories" : "SpringBootJacoco",
+      "tags"     : "",
+      "url"      : "/springboot/jacoco/2021/04/11/Jacoco-Setting.html",
+      "date"     : "2021-04-11 02:30:00 +0900",
+      "content"     : "Jacoco Setting Guide프로젝트 간 Jacoco 세팅 가이드 정리History  2021.04.11 - 기존 문서 이관 (세부 분석 내용 업데이트 예정)Build.gradle      jacoco Plugin 추가      plugins{      id &#39;org.springframework.boot&#39; version &#39;..."
+    } ,
+  
+    {
       "title"    : "Test",
       "title-lower"    : "test",
       "sub-titile" : "",
