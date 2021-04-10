@@ -18,9 +18,9 @@ categories: Intorduction Portfolio
 # Skills
 ## Backend
 - Java
-- Spring Boot2, BX Framework
-- Spring Data JPA, Querydsl, MyBatis
-- Spring Cloud(MSA)
+- __Spring Boot2__, BX Framework
+- __Spring Data JPA__, Querydsl, __MyBatis__
+- __Spring Cloud(MSA)__
     * Spring Cloud Config(JDBC Backend)
     * Spring Cloud Netflix (Eureka, Zuul, Hystrix)
     * Spring Cloud Bus
@@ -30,16 +30,16 @@ categories: Intorduction Portfolio
 - Git, Sourcetree, Serena Dimension
 
 ## Frontend
-- HTML5, JS(ES6), jQuery
-- Vue.js
+- HTML5, __JS(ES6)__, jQuery
+- __Vue.js__
 - Vuex
 - Canvasjs(Chart Lib)
 
 ## DevOps
-- MySQL, MariaDB, Oracle
+- __MySQL, MariaDB, Oracle__
 - Jenkins
 - Tomcat
-- k8s, Docker
+- __k8s, Docker__
 
 # Work Experience & Projects
 
