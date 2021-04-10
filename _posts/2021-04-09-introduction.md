@@ -80,7 +80,7 @@ categories: Intorduction Portfolio
   * 10만건 기준 JSHeapSize 개선 : __3.0GB -> 500MB__
   * 15만건 기준 Out of Memory -> __100만건 기준 2.8GB JSHeapSize 개선__
 
-- Jira, Bitucket, Jenkins를 통한 티켓 관리 및 배포 
+- Jira, Bitucket, Jenkins를 통한 티켓 관리 및 배포 자동화
 
 ### Project 3 : 클라우드 플랫폼 프로젝트 MSA 환경 세팅, IAM, Config 모듈 개발(2020.04.01. ~ 2020.11.13.)
 - 프로젝트 개요 : Nutanix 서버 기반 클라우드 자동화 플랫폼 개발
@@ -95,10 +95,11 @@ categories: Intorduction Portfolio
 
 - Vue.js 기반 UI 개발
 
-- Junit5 기반 테스트 코드 작성
-  * Jacoco, SonarQube 이용 코드 스멜 제거, 코드 커버리지 90% 이상 달성
+- Jacoco, SonarQube 이용 코드 최적화, 코드 커버리지 90% 이상 달성
 
-- Redmine, Bitucket, Jenkins를 통한 티켓 관리 및 배포
+- Junit5 기반 테스트 코드 작성
+
+- Redmine, Gitlab, Jenkins를 통한 티켓 관리 및 배포 자동화
 
 - Docker, k8s 환경에서 개발 경험 (Pod 정상 유무 확인, 로그 확인 등)
   * 각 모듈별 Docker File 테스트 및 설정 가이드 작성 
