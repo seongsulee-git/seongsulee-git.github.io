@@ -1,8 +1,11 @@
 ---
 layout: post
-title:  "Introduction [Click]"
-date:   2019-04-09 18:00:00 +0900
-categories: Intorduction Portfolio
+title:  "Introduction"
+date:   2021-04-09 18:00:00 +0900
+categories: Portfolio
+order: 1
+---
+
 ---
 # About Me
 ## Introduction
@@ -15,6 +18,7 @@ categories: Intorduction Portfolio
 
 - Github  : [https://github.com/seongsulee-git][seongsu-git]
 
+---
 # Skills
 ## Backend
 - Java
@@ -41,6 +45,8 @@ categories: Intorduction Portfolio
 - Tomcat
 - __k8s, Docker__
 
+
+---
 # Work Experience & Projects
 
 ## Company 1 : Growth (2019.08.01. ~ 2020.11.13.)
@@ -139,6 +145,7 @@ categories: Intorduction Portfolio
 
 - Web Service 형상 관리 담당 (Gitlab, Nexus, Jenkins)
 
+---
 # Education
 ## 학점은행제 (2009.03. ~ 2011.02.)
   - 컴퓨터공학 학사 취득
@@ -168,11 +175,13 @@ categories: Intorduction Portfolio
   - 진행
     * 스프링 부트 개념과 활용 - 백기선
 
+---
 # Certificate
 ## Cos Pro C 1급 - 2019.04.21. 취득
 ## 정보처리기사 - 2018.11.16. 취득
 ## 컴퓨터운용사 - 2010.08.18. 취득
 
+---
 # ETC
 ## 독서
 ### 최근 읽고 있는 책

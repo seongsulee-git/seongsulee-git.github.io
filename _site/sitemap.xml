@@ -6,11 +6,21 @@
                 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
         <url>
             <loc></loc>
-	    <lastmod>2021-04-10T13:42:02+09:00</lastmod>
+	    <lastmod>2021-04-11T02:26:12+09:00</lastmod>
             <priority>1.00</priority>
         </url><url>
-                <loc>/intorduction/portfolio/2019/04/09/introduction.html</loc>
-                <lastmod>2019-04-09T18:00:00+09:00</lastmod>
+                <loc>/java/study/2021/04/11/test.html</loc>
+                <lastmod>2021-04-11T00:38:00+09:00</lastmod>
+                <changefreq>weekly</changefreq>
+                <priority>0.80</priority>
+            </url><url>
+                <loc>/java/study/2021/04/11/modern-java8-list.html</loc>
+                <lastmod>2021-04-11T00:38:00+09:00</lastmod>
+                <changefreq>weekly</changefreq>
+                <priority>0.80</priority>
+            </url><url>
+                <loc>/portfolio/2021/04/09/portfolio.html</loc>
+                <lastmod>2021-04-09T18:00:00+09:00</lastmod>
                 <changefreq>weekly</changefreq>
                 <priority>0.80</priority>
             </url></urlset>
