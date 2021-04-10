@@ -1,6 +1,18 @@
 [
   
     {
+      "title"    : "Introduction",
+      "title-lower"    : "introduction",
+      "sub-titile" : "",
+      "sub-titile-lower" : "",
+      "categories" : "IntorductionPortfolio",
+      "tags"     : "",
+      "url"      : "/intorduction/portfolio/2019/04/09/introduction.html",
+      "date"     : "2019-04-09 18:00:00 +0900",
+      "content"     : "About MeIntroduction  안녕하세요. 2년차 개발자 이성수입니다.Contact &amp;amp; Channel      Email   : dev.leeseongsu@gmail.com        Github  : https://github.com/seongsulee-git  SkillsBackend  Java  Spring Boot2, ..."
+    } ,
+  
+    {
       "title"    : "Integrating razorpay into your webapp",
       "title-lower"    : "integrating razorpay into your webapp",
       "sub-titile" : "",
