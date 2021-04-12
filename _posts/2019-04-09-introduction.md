@@ -2,7 +2,7 @@
 layout: post
 title:  "Introduction"
 date:   2021-04-09 18:00:00 +0900
-categories: Portfolio
+categories: Introduction Portfolio
 order: 1
 ---
 
